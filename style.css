@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Source+Sans+Pro&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.left-side {
+    margin-right: auto;
+    justify-content: space-between;
+}
+.right-side {
+    margin-left: auto;
+    justify-content: space-between;
+}
+
+.button {
+    background-color: #4285F4;
+    font-size: medium;
+}
+
+.logo {
+    position: fixed;
+    top: 40%;
+    left: 40%;
+    width: 20%;
+    height: auto;
+}
+
+.searchbar {
+    position: fixed;
+    top: 60%;
+    left: 43%;
+    width: 100%;
+    
+}
+
+.gsifl {
+    position: fixed;
+    top: 65%;
+    left: 43%;
+    width: 100%;
+    margin-left: auto;
+    justify-content: space-between;
+}
+
+p {
+    position: fixed;
+    top: 68%;
+    left: 37%;
+    width: 100%;
+    margin-left: auto;
+    justify-content: space-between;
+}
+
+.footer {
+    position: fixed;
+    top: auto;
+    bottom: 0;
+    width: 100%;
+    display: inline-block;
+    background-color: #f1f4f5;
+}
+
+.narbar-bottom {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.left {
+    margin-right: auto;
+    justify-content: space-between;
+}
+
+.middle {
+    text-align: center;
+    justify-content: space-between;
+}
+.leaf {
+    width:5%;
+    height: auto;
+    background-color: #f1f4f5;
+}
+
+.right {
+    margin-left: auto;
+    justify-content: space-between;
+    
+}
+
